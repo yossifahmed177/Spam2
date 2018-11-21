@@ -1,1 +1,1 @@
-# Spam2
+# SPam
